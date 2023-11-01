@@ -109,7 +109,7 @@ pydeck==0.8.1b0
 PyGetWindow==0.0.9
 Pygments==2.16.1
 PyMsgBox==1.0.9
-pyobjc-core==10.0
+#pyobjc-core==10.0
 pyobjc-framework-Cocoa==10.0
 pyobjc-framework-Quartz==10.0
 pyparsing==3.1.1
