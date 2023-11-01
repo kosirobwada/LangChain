@@ -9,6 +9,7 @@ from langchain.callbacks import StreamlitCallbackHandler
 
 load_dotenv()
 
+
 def create_agent_chain():
     chat = ChatOpenAI(
         model_name = os.environ["OPENAI_API_MODEL"],
